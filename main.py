@@ -1,5 +1,5 @@
-from day1.day1_1 import parse_input
-from day1.day1_1 import check_sequence_for_zeros
+from day1.day1_2 import parse_input
+from day1.day1_2 import check_sequence_for_zeros
 
 if __name__ == '__main__':
     sequence = parse_input('day1/my_puzzle_input.txt')
